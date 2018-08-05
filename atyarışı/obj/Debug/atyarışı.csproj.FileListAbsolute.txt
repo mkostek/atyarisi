@@ -1,0 +1,8 @@
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\bin\Debug\atyarışı.exe.config
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\bin\Debug\atyarışı.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\bin\Debug\atyarışı.pdb
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\obj\Debug\atyarışı.csprojResolveAssemblyReference.cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\obj\Debug\atyarışı.MainForm.resources
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\obj\Debug\atyarışı.csproj.GenerateResource.Cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\obj\Debug\atyarışı.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\atyarışı\atyarışı\obj\Debug\atyarışı.pdb

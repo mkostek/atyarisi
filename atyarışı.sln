@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atyarışı", "atyarışı\atyarışı.csproj", "{9F824B43-54C4-4B05-8D97-EEC7C3A8E431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F824B43-54C4-4B05-8D97-EEC7C3A8E431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F824B43-54C4-4B05-8D97-EEC7C3A8E431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F824B43-54C4-4B05-8D97-EEC7C3A8E431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F824B43-54C4-4B05-8D97-EEC7C3A8E431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
